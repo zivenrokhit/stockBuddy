@@ -1,0 +1,1 @@
+Way to look up instant stock prices!
